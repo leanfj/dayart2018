@@ -1,0 +1,14 @@
+{
+  "name": "dayart-2018",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/leanfj/dayart2018.git",
+  "author": "leanfj <leanfj@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
